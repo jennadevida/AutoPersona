@@ -1,0 +1,8 @@
+# Archivo: requirements.txt
+
+# Librerías necesarias para el proyecto
+pandas==2.2.2
+python-docx==1.1.2
+ttkbootstrap==1.10.1
+pywin32==305.1
+python-dateutil==2.9.0.post0
